@@ -11,6 +11,8 @@
 - **cli:** error message is displayed when we indicate a non-existent chainId when forcing an execution
 - **interpreter:** Added new UUID functions
 - **common:** output_share: new properties (`filter` and `orderby`) that allow the filtering and sorting of the output of a process in extra_ouput.
+- **common:** a new version warning is displayed when you close runnerty
+- **common:** code cleaning and refactoring
 
 ### Tests
 
