@@ -30,7 +30,6 @@
 
 - **common:** schemas update
 
-
 <a name="2.8.0"></a>
 
 # [2.8.0](21/10/2020)
