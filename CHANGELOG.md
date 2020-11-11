@@ -11,7 +11,8 @@
 - **cli:** when we force the execution of a chain only this one will be executed and its dependents, the triggers of the chains will be ignored.
 - **cli:** error message is displayed when we indicate a non-existent chainId when forcing an execution
 - **interpreter:** Added new UUID functions
-- **common:** output_share: new properties (`filter` and `orderby`) that allow the filtering and sorting of the output of a process in extra_ouput.
+- **common:** output_fiter: new process property that allows filtering of output_data and extra_output (JSON)
+- **common:** output_order: new process property that allows sort of output_data and extra_output (JSON)
 - **dependencies:** minor dependency updates
 
 <a name="2.8.1"></a>
